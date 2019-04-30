@@ -1,0 +1,29 @@
+﻿Evan Oesterreich 19 PM 172.31.210.76
+Lab Project 9
+1./usr/lib/system/systemd -s
+2.?
+3.Number of controlled terminal
+4.root
+5.2
+6.S,Interruptible sleep
+7.(-20,19) written in interval notation
+8.systemd, systemd-journal, vmetad, systemd-udevd, adispd, sedispatch, dbus-daemon, ira_balance. The id associated with the process being system or not.
+9.No
+10.Yes
+11.Yes
+12.The option for the kill command was not associated with terminating processes.
+13.No, it is occupied by sleep.
+14.254
+15.253
+16.16334036
+17.1048572
+18.yes
+19.yes
+20.12:49
+21./root/datefile
+22.no
+23.20 hours and 30 minutes.
+24.They are the same.
+25.They are the same.
+26.Sleeping
+27.Yes
